@@ -40,7 +40,7 @@ const Title = styled(H1)`
   flex: 4;
 `
 
-const MediaQuery = styled.dev`
+const MediaQuery = styled.div`
   @media (max-width: 450px) {
     display: none;
   }
